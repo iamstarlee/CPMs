@@ -7,13 +7,7 @@ and
 http://sam.johnson.io/research/lspet.html
 
 数据集文件夹的结构
-data
-└── LSP
-    ├── lsp_dataset
-    │   ├── images
-    │   └── visualized
-    └── lspet_dataset
-        └── images
+![image](https://user-images.githubusercontent.com/44799727/142198604-a379e5cd-c025-4c0e-a9dd-83b9bfc4836c.png)
         
 # 训练
 ## With weighted loss
